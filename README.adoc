@@ -1,21 +1,6 @@
-# Rust Course
+# AsciiDoctor Slides
 
-Slides for Rust course taught in https://compscicenter.ru/[Computer Science
-Center] in Winter-Spring 2019 (in Russian).
-
-Course Page::
-https://compscicenter.ru/courses/rustprogramming/2019-spring/
-
-Video::
-https://www.youtube.com/playlist?list=PLlb7e2G7aSpTfhiECYNI2EZ1uAluUqE_e
-
-Slides::
-In this repository :-)
-
-Homework::
-Homework tasks are not distributed, but they followed
-http://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf[Ray
-Tracing in a Weekend] pretty closely.
+This repository is forked from matklad's wonderful rust course repo at the behest of this blog post https://matklad.github.io/2019/05/19/consider-using-asciidoctor-for-your-next-presentation.html Hopefully it will become my preferred form of slide drafting forever more! Next step would be to somehow port these features back up to my blog repo and make the slides available via my website. But im a dumb dumb who doesn't do web programming so it may not happen or may take a while :/
 
 ## Building
 
